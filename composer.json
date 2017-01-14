@@ -7,9 +7,10 @@
             "email": "carlos.alves.ti@gmail.com"
         }
     ],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "\\CodeEduBook\\": ""
+            "CodeEduBook\\": ""
         }
     }
 }
